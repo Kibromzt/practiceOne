@@ -1,36 +1,36 @@
 // Assign STRING VALUES ONLY to all of the following variables.
 // Assign an adjective
-// let adj1;
-// // Assign an adjective
-// let adj2;
-// // Assign an adjective
-// let adj3;
-// // Assign an adjective
-// let adj4;
-// // Assign an adjective
-// let adj5;
-// // Assign an adjective
-// let adj6;
-// // Assign an adverb
-// let adverb;
-// // Assign a color
-// let color;
-// // Assign a noun
-// let noun1;
-// // Assign a noun
-// let noun2;
-// // Assign a noun
-// let noun3;
-// // Assign a noun
-// let noun4;
-// // Assign a noun
-// let noun5;
-// // Assign a noun
-// let noun6;
-// // Assign a number
-// let num;
-// // Assign a plural noun
-// let pnoun1;
+let adj1 = "attractive";
+// Assign an adjective
+let adj2 = "beautiful";
+// Assign an adjective
+let adj3 = "clean";
+// Assign an adjective
+let adj4 = "fancy";
+// Assign an adjective
+let adj5 = "faithful";
+// Assign an adjective
+let adj6 = "calm";
+// Assign an adverb
+let adverb = "nearly";
+// Assign a color
+let color = "blue";
+// Assign a noun
+let noun1 = "poppy";
+// Assign a noun
+let noun2 = "bone";
+// Assign a noun
+let noun3 = "Hailish";
+// Assign a noun
+let noun4 = "Nigisti";
+// Assign a noun
+let noun5 = "Adugna";
+// Assign a noun
+let noun6 = "Tigray";
+// Assign a number
+let num = 16;
+// Assign a plural noun
+let pnoun1 = "children";
 
 // Open your console to see the results!
 // SPOILER ALERT: KEEP SCROLLING TO VIEW THE REST OF THE CODE
